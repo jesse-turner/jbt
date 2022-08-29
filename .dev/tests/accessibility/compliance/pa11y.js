@@ -52,9 +52,6 @@ const config = {
 	timeout: 20000,
 	userAgent: 'pa11y',
 	width: 1280,
-	ignore: [
-		'notice'
-	],
 	log: {
 		debug: console.log.bind( console ),
 		error: console.error.bind( console ),
