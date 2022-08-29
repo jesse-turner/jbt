@@ -61,7 +61,7 @@ const config = {
 		info: console.log.bind( console )
 	},
 	chromeLaunchConfig: {
-		ignoreHTTPSErrors: true
+		ignoreHTTPSErrors: false
 	}
 };
 
