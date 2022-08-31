@@ -95,7 +95,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/godaddy-wordpress/go
+$ git clone https://github.com/jesse-turner/jbt
 
 # Go into the repository
 $ cd go
