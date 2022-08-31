@@ -58,7 +58,7 @@
 
 ## Download
 
-[Click here to download](https://github.com/godaddy-wordpress/go/releases/latest/download/go.zip) the latest release package of Go for WordPress.
+[Click here to download](https://github.com/jesse-turner/jbt/archive/refs/heads/master.zip) the latest release package of Go for WordPress.
 
 ## Showcase
 
