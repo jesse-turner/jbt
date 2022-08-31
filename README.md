@@ -1,6 +1,6 @@
-<h1 align="center">JBT <a href="https://github.com/godaddy-wordpress/go/releases/latest/"><img src="https://img.shields.io/static/v1?goVersion=&message=v1.6.5&label=&color=999&style=flat-square"></a></h1>
+<h1 align="center">JBT <a href="https://github.com/godaddy-wordpress/go/releases/latest/"><img src="https://img.shields.io/static/v1?goVersion=&message=v1&label=&color=999&style=flat-square"></a></h1>
 
-<h4 align="center">The most flexible <a href="https://github.com/wordpress/gutenberg" target="_blank">Gutenberg</a>-first <a href="https://wordpress.org" target="_blank">WordPress</a> theme built for go-getters everywhere.</h4>
+<h4 align="center">The most flexible <a href="https://github.com/wordpress/gutenberg" target="_blank">Gutenberg</a>-first <a href="https://wordpress.org" target="_blank">WordPress</a> theme built for Jesse's everywhere.</h4>
 
 <br>
 
